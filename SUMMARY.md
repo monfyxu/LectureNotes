@@ -8,4 +8,5 @@
 
 ## 微课
 * [Counseling LGBT](counseling-lgbt.md)
+* [咨询伦理](咨询伦理.md)
 
