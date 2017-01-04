@@ -4,7 +4,7 @@
 * [Introduction](README.md)
 
 ## Lectures
-* [Publication \(Ryan Duffy\)](publication----ryan-duffy.md)
+* [Publication \(Ryan Duffy\)](publication-ryan-duffy.md)
 * [Response Surface](response-surface.md)
 
 ## Courses
