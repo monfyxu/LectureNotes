@@ -6,9 +6,10 @@
 - Value
 - Impact
 
-Focus on the overlapping part  
-Ask people  
-Read journal articles  
+
+- Focus on the overlapping part
+- Ask people
+- Read journal articles  
 
 
 ### Research skills
