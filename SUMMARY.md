@@ -19,9 +19,9 @@
     * [IP §3 Honouring the Client's Resistance](books/ip3.md)
 
 ## Lectures
-* [About Publication](lectures/publication-ryan-duffy.md)
+* [About Publication](lectures/duffy.md)
 * [Response Surface](lectures/response-surface.md)
-* [Emotion Focused Therapy](lectures/emotion-focused-therapy.md)
+* [Emotion Focused Therapy](lectures/eft.md)
 * [Therapeutic Relationship](therapeutic-relationship.md)
 * [Therapist Training](therapist-training.md)
 
@@ -40,7 +40,7 @@
     * [案例](courses/psychopathology/案例.md)
 
 ## Micro-courses
-* [Counseling LGBT](micro-course/counseling-lgbt.md)
+* [LGBT咨询](micro-course/counseling-lgbt.md)
 * [咨询伦理](micro-course/咨询伦理.md)
 * [简单倾听](micro-course/简单倾听.md)
     * [接线](micro-course/接线.md)
