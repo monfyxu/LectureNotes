@@ -3,6 +3,7 @@
 ## Introduction
 * [Introduction](README.md)
 
+## Books
 * [Psychoanalytic Diagnosis](psychoanalytic-diagnosis.md)
     * [PD §2 Psychoanalytic Character Diagnosis](pd2.md)
     * [PD §3 Developmental Levels of Personality Organization](pd3.md)
