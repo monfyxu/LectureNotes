@@ -1,5 +1,7 @@
 # Publication
 
+2015/6/8
+
 ### Core components
 
 - Passion
