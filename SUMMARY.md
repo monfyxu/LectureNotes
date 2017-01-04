@@ -3,6 +3,20 @@
 ## Introduction
 * [Introduction](README.md)
 
+* [Psychoanalytic Diagnosis](psychoanalytic-diagnosis.md)
+    * [PD §2 Psychoanalytic Character Diagnosis](pd2.md)
+    * [PD §3 Developmental Levels of Personality Organization](pd3.md)
+    * [PD §4 Implications of Developmental Levels of Organization](pd4.md)
+    * [PD §5 Primary Defensive Processes](pd5.md)
+    * [PD §6 Secondary Defensive Processes](pd6.md)
+    * [PD §8 Narcissistic Personalities](pd8.md)
+    * [PD §10 Paranoid Personalities](pd10.md)
+    * [PD §11 Depressive and Manic Personalities](pd11.md)
+* [Helping Skills](helping-skills.md)
+    * [HS §4 Self-Awareness](hs4.md)
+* [Interpersonal Process in Therapy](interpersonal-process-in-therapy.md)
+    * [IP §3 Honouring the Client's Resistance](ip3.md)
+
 ## Lectures
 * [Publication \(Ryan Duffy\)](publication-ryan-duffy.md)
 * [Response Surface](response-surface.md)
@@ -28,6 +42,4 @@
     * [接线](micro-course/接线.md)
     * [危机](micro-course/危机.md)
     * [倾听](micro-course/倾听.md)
-
-## Books
 
