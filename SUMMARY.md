@@ -19,8 +19,11 @@
     * [IP §3 Honouring the Client's Resistance](books/ip3.md)
 
 ## Lectures
-* [Publication \(Ryan Duffy\)](publication-ryan-duffy.md)
-* [Response Surface](response-surface.md)
+* [About Publication](lectures/publication-ryan-duffy.md)
+* [Response Surface](lectures/response-surface.md)
+* [Emotion Focused Therapy](lectures/emotion-focused-therapy.md)
+
+
 
 ## Courses
 * [Family Therapy](courses/family-therapy/家庭治疗.md)
