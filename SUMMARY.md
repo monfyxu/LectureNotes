@@ -23,6 +23,7 @@
 * [Response Surface](lectures/response-surface.md)
 * [Emotion Focused Therapy](lectures/emotion-focused-therapy.md)
 * [Therapeutic Relationship](therapeutic-relationship.md)
+* [Therapist Training](therapist-training.md)
 
 ## Courses
 * [Family Therapy](courses/family-therapy/家庭治疗.md)
