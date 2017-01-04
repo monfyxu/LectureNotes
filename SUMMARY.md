@@ -41,9 +41,9 @@
 
 ## Micro-courses
 * [LGBT咨询](micro-course/counseling-lgbt.md)
-* [咨询伦理](micro-course/咨询伦理.md)
-* [简单倾听](micro-course/简单倾听.md)
-    * [接线](micro-course/接线.md)
-    * [危机](micro-course/危机.md)
-    * [倾听](micro-course/倾听.md)
+* [咨询伦理](micro-course/ethics.md)
+* [简单倾听](micro-course/jdqt.md)
+    * [接线](micro-course/reception.md)
+    * [危机](micro-course/risk.md)
+    * [倾听](micro-course/listening.md)
 
