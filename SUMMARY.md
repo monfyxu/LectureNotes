@@ -34,10 +34,10 @@
     * [焦点解决模型](courses/family-therapy/solution-focused.md)
     * [叙事治疗](courses/family-therapy/narrative.md)
     * [过程和技术](courses/family-therapy/process-tech.md)
-* [Psychopathology](courses/psychopathology/心理病理.md)
-    * [心理诊断](courses/psychopathology/心理诊断.md)
-    * [评估心理障碍](courses/psychopathology/评估心理障碍.md)
-    * [案例](courses/psychopathology/案例.md)
+* [Psychopathology](courses/psychopathology/psychopathology.md)
+    * [心理诊断](courses/psychopathology/diagnosis.md)
+    * [评估心理障碍](courses/psychopathology/assessment.md)
+    * [案例](courses/psychopathology/case.md)
 
 ## Micro-courses
 * [LGBT咨询](micro-course/counseling-lgbt.md)
