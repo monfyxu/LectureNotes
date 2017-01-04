@@ -1,6 +1,7 @@
 # Summary
 
 ## Lectures
+* [Introduction](README.md)
 * [Publication \(Ryan Duffy\)](publication----ryan-duffy.md)
 * [Response Surface](response-surface.md)
 
