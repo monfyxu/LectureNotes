@@ -36,7 +36,7 @@
     * [评估心理障碍](courses/psychopathology/评估心理障碍.md)
     * [案例](courses/psychopathology/案例.md)
 
-## 微课
+## Micro-courses
 * [Counseling LGBT](micro-course/counseling-lgbt.md)
 * [咨询伦理](micro-course/咨询伦理.md)
 * [简单倾听](micro-course/简单倾听.md)
