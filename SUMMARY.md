@@ -22,10 +22,10 @@
     * [案例](/psychopathology/案例.md)
 
 ## 微课
-* [Counseling LGBT](counseling-lgbt.md)
-* [咨询伦理](咨询伦理.md)
-* [简单倾听](简单倾听.md)
-    * [接线](接线.md)
-    * [危机](危机.md)
-    * [倾听](倾听.md)
+* [Counseling LGBT](/micro-course/counseling-lgbt.md)
+* [咨询伦理](/micro-course/咨询伦理.md)
+* [简单倾听](/micro-course/简单倾听.md)
+    * [接线](/micro-course/接线.md)
+    * [危机](/micro-course/危机.md)
+    * [倾听](/micro-course/倾听.md)
 
