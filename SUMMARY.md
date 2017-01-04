@@ -5,7 +5,7 @@
 * [Response Surface](response-surface.md)
 
 ## 家庭治疗（高建秀）
-* [Family Therapy](README.md)
+* [Family Therapy](family-therapy.md)
 
 ## 心理病理（王建平）
 * [心理诊断](心理诊断.md)
