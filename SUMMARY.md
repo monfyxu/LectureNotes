@@ -23,7 +23,7 @@
 * [Response Surface](response-surface.md)
 
 ## Courses
-* [家庭治疗（高建秀）](courses/family-therapy/家庭治疗（高建秀）.md)
+* [Family Therapy](courses/family-therapy/家庭治疗.md)
     * [代际模型](courses/family-therapy/代际模型.md)
     * [萨提亚模型](courses/family-therapy/萨提亚模型.md)
     * [结构模型](courses/family-therapy/结构模型.md)
@@ -31,7 +31,7 @@
     * [焦点解决模型](courses/family-therapy/焦点解决模型.md)
     * [叙事治疗](courses/family-therapy/叙事治疗.md)
     * [过程和技术](courses/family-therapy/过程和技术.md)
-* [心理病理（王建平）](courses/psychopathology/心理病理（王建平）.md)
+* [Psychopathology](courses/psychopathology/心理病理.md)
     * [心理诊断](courses/psychopathology/心理诊断.md)
     * [评估心理障碍](courses/psychopathology/评估心理障碍.md)
     * [案例](courses/psychopathology/案例.md)
