@@ -11,7 +11,6 @@
 - Ask people
 - Read journal articles  
 
-
 ### Research skills
 
 - Conceptualization skills
