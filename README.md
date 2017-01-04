@@ -1,1 +1,1 @@
-Book for lecture notes
+My lecture notes
