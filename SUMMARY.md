@@ -17,9 +17,9 @@
     * [叙事治疗](/family-therapy/叙事治疗.md)
     * [过程和技术](/family-therapy/过程和技术.md)
 * [心理病理（王建平）](/psychopathology/心理病理（王建平）.md)
-    * [心理诊断](心理诊断.md)
-    * [评估心理障碍](评估心理障碍.md)
-    * [案例](案例.md)
+    * [心理诊断](/psychopathology/心理诊断.md)
+    * [评估心理障碍](/psychopathology/评估心理障碍.md)
+    * [案例](/psychopathology/案例.md)
 
 ## 微课
 * [Counseling LGBT](counseling-lgbt.md)
