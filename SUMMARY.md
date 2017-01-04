@@ -1,5 +1,8 @@
 # Summary
 
+## Lectures
+* [Publication -- Ryan Duffy](publication----ryan-duffy.md)
+
 ## Course \(FDU\)
 * [Introduction](README.md)
 
@@ -14,4 +17,5 @@
 * [接线](接线.md)
 * [危机](危机.md)
 * [倾听](倾听.md)
+
 
