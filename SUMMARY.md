@@ -8,9 +8,9 @@
 * [Response Surface](response-surface.md)
 
 ## Courses
-* [家庭治疗（高建秀）](/family-therapy/家庭治疗（高建秀）.md)
-    * [代际模型](/family-therapy/代际模型.md)
-    * [萨提亚模型](/family-therapy/萨提亚模型.md)
+* [家庭治疗（高建秀）](/courses/family-therapy/家庭治疗（高建秀）.md)
+    * [代际模型](/courses/family-therapy/代际模型.md)
+    * [萨提亚模型](/courses/family-therapy/萨提亚模型.md)
     * [结构模型](/family-therapy/结构模型.md)
     * [策论模型](/family-therapy/策论模型.md)
     * [焦点解决模型](/family-therapy/焦点解决模型.md)
