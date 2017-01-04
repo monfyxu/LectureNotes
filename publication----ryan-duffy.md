@@ -6,7 +6,7 @@
 - Value
 - Impact
 
-
+### Develop ideas
 - Focus on the overlapping part
 - Ask people
 - Read journal articles  
