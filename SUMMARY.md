@@ -1,11 +1,11 @@
 # Summary
 
 ## Lectures
-* [Publication (Ryan Duffy)](publication----ryan-duffy.md)
+* [Publication \(Ryan Duffy\)](publication----ryan-duffy.md)
 * [Response Surface](response-surface.md)
 
 ## 家庭治疗（高建秀）
-* [Introduction](README.md)
+* [Family Therapy](README.md)
 
 ## 心理病理（王建平）
 * [心理诊断](心理诊断.md)
