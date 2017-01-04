@@ -40,9 +40,9 @@
     * [案例](courses/psychopathology/case.md)
 
 ## Micro-courses
-* [LGBT咨询](micro-course/counseling-lgbt.md)
-* [咨询伦理](micro-course/ethics.md)
-* [简单倾听](micro-course/jdqt.md)
+* [Counseling LGBT](micro-course/counseling-lgbt.md)
+* [Ethics](micro-course/ethics.md)
+* [JianDanQingTing](micro-course/jdqt.md)
     * [接线](micro-course/reception.md)
     * [危机](micro-course/risk.md)
     * [倾听](micro-course/listening.md)
