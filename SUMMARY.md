@@ -10,3 +10,6 @@
 * [Counseling LGBT](counseling-lgbt.md)
 * [咨询伦理](咨询伦理.md)
 
+## 简单倾听
+* [接线](接线.md)
+
