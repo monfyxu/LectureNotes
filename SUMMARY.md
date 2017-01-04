@@ -7,8 +7,10 @@
 ## Course \(FDU\)
 * [Introduction](README.md)
 
-## Course \(BNU\)
-* [心理病理——王建平](psychopathology.md)
+## 心理病理（王建平）
+* [心理诊断](psychopathology.md)
+* [评估心理障碍](评估心理障碍.md)
+* [案例](案例.md)
 
 ## 微课
 * [Counseling LGBT](counseling-lgbt.md)
