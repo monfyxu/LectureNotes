@@ -8,7 +8,8 @@
 * [Response Surface](response-surface.md)
 
 ## 家庭治疗（高建秀）
-* [Family Therapy](family-therapy.md)
+* [家庭治疗（高建秀）](family-therapy.md)
+    * [代际模型](代际模型.md)
 
 ## 心理病理（王建平）
 * [心理诊断](心理诊断.md)
