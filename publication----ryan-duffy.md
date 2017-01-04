@@ -1,30 +1,41 @@
 # Publication
 
-Core component:
+### Core components
 
-Passion
-Value
-Impact
+- Passion
+- Value
+- Impact
 
-Focus on the overlapping part
-Ask people
-Read journal articles
+Focus on the overlapping part  
+Ask people  
+Read journal articles  
 
 
-Research skills
-	• Conceptualization skills
-		○ Literature knowledge
-		○ Finding niche 
-		○ Creativity
-	• Implementation skills
-		○ Networking
-		○ Multitasking
-		○ People management
-	• Data analysis skills
-		○ SPSS/SAS 
-		○ Up to SEM
-		○ Translation
-	• Writing Skills
-		○ Formatting
-		○ Flow
-		○ Style
+### Research skills
+
+- Conceptualization skills
+    - Literature knowledge
+    - Finding niche
+    - Creativity
+- Implementation skills
+    - Networking
+    - Multitasking
+    - People management
+- Data analysis skills
+    - SPSS/SAS
+    - Up to SEM
+    - Translation
+- Writing Skills
+    - Formatting
+    - Flow
+    - Style
+    
+
+**Productivity = Skills + Smartness + Collaboration + Time**
+
+### Tips
+1. Rejection is your friend.
+2. Comparison is your enemy.
+3. Understand your own working style.
+4. This is a game.
+
