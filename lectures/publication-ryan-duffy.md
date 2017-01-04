@@ -1,6 +1,6 @@
 # Publication
 
-2015/6/8
+150608@BNU by [Ryan Duffy](http://www.drryanduffy.com/)
 
 ### Core components
 
