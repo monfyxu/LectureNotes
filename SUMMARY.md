@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](psychopathology.md)
+* [心理病理——王建平](psychopathology.md)
 
