@@ -2,6 +2,7 @@
 
 ## Lectures
 * [Publication \(Ryan Duffy\)](publication----ryan-duffy.md)
+* [Response Surface](response-surface.md)
 
 ## Course \(FDU\)
 * [Introduction](README.md)
