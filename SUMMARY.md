@@ -17,6 +17,8 @@
     * [HS §4 Self-Awareness](books/hs4.md)
 * [Interpersonal Process in Therapy](books/interpersonal-process-in-therapy.md)
     * [IP §3 Honouring the Client's Resistance](books/ip3.md)
+* [Transformation in Psychotherapy](books/transformation-in-psychotherapy.md)
+    * [CE §7 Corrective Experiences in Person-centered Therapy](books/ce7.md)
 
 ## Lectures
 * [About Publication](lectures/duffy.md)
