@@ -4,7 +4,6 @@
 
 —E. m. Forster, Howard’s End
 
-
 Definition of CE
 
 > CEs are ones in which a person comes to understand or experience affectively an event or relationship in a dif- ferent and unexpected way
