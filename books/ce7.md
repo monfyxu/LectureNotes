@@ -63,6 +63,6 @@ Classical Freudian: insight is corrective
 Alexander’s (1946) concept of CE was that experience in therapy could alter behavior directly, without conceptual mediation, although it might subsequently lead to insight or understanding.
 
 - From a psychodynamic perspecitve: I still believe that the expression of feelings, as powerful as this is, **should be accompanied by subsequent attempts to understand what happened and to process the meaning of new experiences**.
-- From a person-centered perspective, understanding feelings or maladaptive patterns is at best incidental to the growth process.
+- From a person-centered perspective, understanding feelings or maladaptive patterns is at best **incidental to the growth process**.
 
 
